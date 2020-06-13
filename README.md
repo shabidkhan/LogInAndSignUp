@@ -1,5 +1,5 @@
 # LogInAndSignUp
-In this project, I made a simple LoginSignup app using React library of JavaScript. In this app, I do have Login and Signup page with using express library of javaScript.
+In this project, I made a simple LoginSignup app using [React](https://reactjs.org) library of JavaScript. In this app, I do have Login and Signup page with using express library of javaScript.
 
 <h2>Requirements and Execution</h2>
 If you're using Linux-based OS, open your terminal, and clone the app using the following command. <br>
